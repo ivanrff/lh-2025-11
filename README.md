@@ -1,13 +1,12 @@
 # Modelo Preditivo de Nota IMDB
 
-## Atenção
+O arquivo ```Relatório Jupyter.ipynb``` contém todas as entregas de informação solicitadas. Ele utiliza dois datasets diferentes do dataset disponibilizado. Ainda que não seja boa prática, pra facilitar, eu subi os dois datasets neste repositório.
 
-O arquivo ```Relatório Jupyter.ipynb``` contém todas as entregas de informação solicitadas. Ele utiliza dois datasets customizados:
-
-1. ```data/desafio_indicium_imdb_final.csv```: Esse arquivo é o csv disponibilizado, porém com valores faltantes preenchidos. Para criar este dataset a partir do dataset original, deve-se rodar o arquivo ```manipulate_csv.py```, explicado abaixo.
+Datasets necessários para rodar o relatório (disponíveis neste repositório):
+1. ```data/desafio_indicium_imdb_final.csv```: Esse arquivo é o csv disponibilizado, porém com alguns valores faltantes preenchidos com dados de APIs. Para criar este dataset a partir do dataset original, deve-se rodar o arquivo ```manipulate_csv.py```, explicado abaixo.
 2. ```data/US_inflation_from_macrotrends.csv```: Dataset de dados de inflação nos Estados Unidos. Disponível em: https://www.macrotrends.net/2497/historical-inflation-rate-by-year
 
-Ainda que não seja uma boa prática, pra facilitar, eu subi os dois datasets neste repositório, então não é necesário baixar o dataset de inflação ou ir buscar chaves de API e rodar o ```manipulate_csv.py```.
+
 
 > [!IMPORTANT]
 > Na primeira célula do relatório há um parte onde é necessário baixar recursos do nltk:
