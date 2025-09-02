@@ -1,7 +1,8 @@
 *.pdf
-*.csv
-links.txt
-*.py
-*.json
-/__pycache__
+API_KEY.py
 *.txt
+/catboost_info/
+df_get_*.ipynb
+/deprecated
+.venv/
+__pycache__/
