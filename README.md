@@ -1,6 +1,6 @@
 # Modelo Preditivo de Nota IMDB
 
-O arquivo ```LH_CD_IVAN_R_F_FILHO.ipynb``` contém todas as entregas de informação solicitadas. Ele utiliza dois datasets com dados externos. Ainda que não seja boa prática, pra facilitar, eu subi os dois datasets neste repositório.
+O arquivo ```LH_CD_IVAN_R_F_FILHO.ipynb``` é o relatório e contém todas as entregas de informação solicitadas. Ele utiliza dois datasets com dados externos. Ainda que não seja boa prática, pra facilitar, eu subi os dois datasets neste repositório.
 
 Datasets necessários para rodar o relatório (disponíveis neste repositório):
 1. ```data/desafio_indicium_imdb_final.csv```: Esse arquivo é o csv disponibilizado, porém com alguns valores faltantes preenchidos com dados de APIs. Para criar este dataset a partir do dataset original, deve-se rodar o arquivo ```manipulate_csv.py```, explicado abaixo.
