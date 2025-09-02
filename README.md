@@ -20,7 +20,7 @@ Esta parte só precisa ser executada uma vez.
 
 ## Outros arquivos
 
-- ```manipulate_csv.py```: Neste arquivo utilizei duas APIs diferentes, e ele supõe a existência de um arquivo ```API_KEY.py``` com as duas APIs. ```API_KEY template.py``` mostra como esse arquivo deve ser.
+- ```manipulate_csv.py```: Neste arquivo utilizei duas APIs diferentes, e ele supõe a existência de um arquivo ```API_KEY.py``` com as duas chaves de API. ```API_KEY template.py``` mostra como esse arquivo deve ser.
 <br>
     - ```api_connections.py```: Contêm funções auxiliares de ```manipulate_csv.py```.
 <br>
