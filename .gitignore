@@ -1,6 +1,5 @@
 *.pdf
 API_KEY.py
-*.txt
 /catboost_info/
 df_get_*.ipynb
 /deprecated
